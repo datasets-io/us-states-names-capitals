@@ -2,7 +2,7 @@ US State Names and Capitals
 ===
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coverage Status][codecov-image]][codecov-url] [![Dependencies][dependencies-image]][dependencies-url]
 
-> Mapping between US state names and capitals.
+> Maps US state names to state capitals.
 
 
 ## Installation
@@ -22,7 +22,7 @@ var table = require( 'datasets-us-states-names-capitals' );
 
 #### table
 
-Mapping between US state names and capitals.
+Maps US state names to state capitals.
 
 ``` javascript
 console.dir( table );
