@@ -1,6 +1,6 @@
 {
   "name": "datasets-us-states-names-capitals",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Maps US state names to state capitals.",
   "author": {
     "name": "Athan Reines",
